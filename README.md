@@ -4,7 +4,7 @@
 
 # 318.StudentDormitoryManagementSystem3
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>QQ: 206157502(入群获取sql文件)</p>
 
 <p><h1 align="center">318.学生宿舍管理系统</h1></p>
